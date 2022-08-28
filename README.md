@@ -1,2 +1,3 @@
 # ios-constraints
-iOS Constraints
+
+This is an extension written in Swift to help you with your iOS constraints.
